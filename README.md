@@ -42,7 +42,7 @@ Key columns include:
    - **Overall Performance by Channel:** Summarizes total spend, revenue, clicks, orders, CPC, CPA, CTR, CVR by channel.
    - **Performance by Campaign:** Breakdown of metrics for each campaign, segmented by channel.
    - **Quarterly Comparison (Q1 vs Q2):** Evaluates trends in CPC, CPA, CTR, CVR, revenue, and orders.
-   - **High vs. Low Performing Campaigns:** Highlights campaigns with strongest and weakest cost efficiency and conversions.
+   - **High vs. Low Performing Campaigns:** Highlights campaigns with the strongest and weakest cost efficiency and conversions.
    - **Campaign Type Analysis:** Evaluates retargeting, awareness, and conquest campaigns across channels.
 
 3. **Demographic Insights**
@@ -51,7 +51,9 @@ Key columns include:
 
 4. **Visualization**
    - Pivot table charts and screenshots highlight trends and insights.
-   - All visual outputs stored in the `Images/` folder.
+   - All visual outputs are stored in the `Images/` folder.
+     Sample 4 pivots
+     Sample 4 visuals 
 
 ---
 
@@ -59,11 +61,11 @@ Key columns include:
 
 - **Top Performing Channels & Campaigns:**
   - SEM Conquest showed the highest CVR (43.26%) and lowest CPA ($5.95), despite a lower CTR.
-  - Meta Retarget achieved the highest revenue but with moderate CVR (0.60%).
+  - Meta Retarget achieved the highest revenue but with a moderate CVR (0.60%).
   
 - **Low Performing Channels & Campaigns:**
   - Meta Awareness had the lowest CVR (2.93%) and highest CPA ($17.39).
-  - Fish campaigns underperformed overall with the lowest revenue and CTR.
+  - Fish campaigns underperformed overall, with the lowest revenue and CTR.
 
 - **Quarterly Trends:**
   - CTR increased +8.17% overall from Q1 to Q2, showing stronger engagement.
@@ -98,15 +100,18 @@ Key columns include:
 
 ## File Structure
 Marketing-Data-Analytics-Project/
-│
-├── README.md # Project overview and insights
-├── Data/
-│ ├── Raw/ # Original SEM & Paid Social data
-│ └── Processed/ # Combined and cleaned datasets
-├── Excel-Files/ # Pivot tables and metrics calculations
-├── Images/ # Screenshots of pivot table charts
-└── Documentation/ # Optional PDFs or Word docs
-
+-  README.md # Project overview and insights
+- Data
+     - Raw/ # Original SEM & Paid Social data
+     -  Processed/ # Combined and cleaned datasets with insights and pivot tables shown 
+       
+- Insights and Formula Sheet Documentation 
+    - Word doc, Excel formula sheet
+    - Pivot tables and metric calculations
+    - analysis from pivot tables
+    - quality assurance
+      
+- Images/ # Screenshots of pivot table charts
 
 ---
 
