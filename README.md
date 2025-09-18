@@ -52,7 +52,7 @@ Key columns include:
 
 Sample subset:
 
-(![Channel visual overview](Images_and_Screenshots/Channel_Overview_EDA.png)
+![Channel visual overview](Images_and_Screenshots/Channel_Overview_EDA.png)
 
 ![Channel table](Images_and_Screenshots/Channel_overall_performance.png)
 
