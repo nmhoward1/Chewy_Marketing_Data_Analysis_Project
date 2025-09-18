@@ -1,14 +1,13 @@
 # Marketing Data Analytics Project
-Data Analytics Excel Report on Mock Chewy data from Landing Pages to evaluate Campaign Performance
+Data Analytics Excel Report on Mock Chewy data from Landing Pages to evaluate Campaign Performance.
 
 ## Project Overview
-This project analyzes SEM and Paid Social performance for Q1 and Q2 of 2024. The objective is to uncover insights across campaigns, channels, and demographics, evaluate cost efficiency, and provide actionable recommendations to optimize marketing spend and performance.
+This project analyzes SEM and Paid Social performance for Q1 and Q2 of 2024. The objective is to uncover insights across campaigns and channels, evaluate cost efficiency, and provide actionable recommendations to optimize marketing spend and performance.
 
 The analysis focuses on:
 - Historical performance by channel and campaign
 - Campaign efficiency (CPA, CPC, CVR, CTR)
 - High vs. low-performing campaigns
-- Demographic trends and targeting opportunities
 - Quarterly performance comparisons (Q1 vs Q2)
 
 ---
@@ -71,43 +70,43 @@ Sample subset:
 
 ## Key Insights
 
-- **Top Performing Channels & Campaigns:**
+- **Top Performing Channels:**
   - SEM Conquest showed the highest CVR (43.26%) and lowest CPA ($5.95), despite a lower CTR.
-  - Meta Retarget achieved the highest revenue but with a moderate CVR (0.60%).
+  - Meta Retarget achieved the highest revenue, but with a moderate CVR (0.60%).
   
 - **Low Performing Channels & Campaigns:**
   - Meta Awareness had the lowest CVR (2.93%) and highest CPA ($17.39).
   - Fish campaigns underperformed overall, with the lowest revenue and CTR.
+
+- **Campaign-Level high and lowest Performance:**
+   
+   - **Dog Campaign:** Highest overall revenue ($40.46 M), lowest CPA ($10.53), strong CPC ($0.42), and healthy CVR (4.02%). Dog is the most balanced and cost-efficient campaign across all channels.
+   - **Reptile Campaign:** Lowest efficiency overall, running primarily on Meta. CPA  and revenue are minimal ($1.29M). Engagement and conversions are poor, suggesting a pause or optimization focus.
 
 - **Quarterly Trends:**
   - CTR increased +8.17% overall from Q1 to Q2, showing stronger engagement.
   - CPC decreased -4.46%, reflecting more efficient spend.
   - CPA increased +18.26% and CVR decreased -16.16%, highlighting declining conversion efficiency despite increased engagement.
 
-- **Demographic Highlights:**
-  - Best-performing segment: Females, ages 25-44, top 10% household income.
-  - Recommendations: Focus ad targeting and retargeting efforts on these demographics to maximize conversions.
 
 ---
 
 ## Recommendations
 
-1. **Channel Optimization**
+ **Channel Optimization**
    - Allocate more budget toward SEM Conquest campaigns.
    - Reduce spend on low-performing Meta Awareness campaigns and focus on retargeting.
 
-2. **Campaign-Level Adjustments**
+ **Campaign-Level Adjustments**
    - Pause underperforming campaigns and keywords.
-   - Increase bids for high-converting campaigns (e.g., Dog campaign).
+   - Increase bids for high-converting campaigns (Cat & Dog campaign.
+   - Prioritize Sem spend, optimize or reduce paid social spend due to high model cost
+   - Pause Meta campaigns for reptiles
 
-3. **Demographics & Targeting**
-   - Focus on high-value segments: Females, 25-44 age group, top 10% income.
-   - Adjust creative and messaging to improve engagement in low-performing segments.
-
-4. **Quarterly Strategy**
+  **Quarterly Strategy**
    - Monitor CVR trends to optimize CPA efficiency.
-   - Continue testing ad copy and targeting to improve conversions across Q3 campaigns.
-
+   - Continue testing targeting to improve conversions across Q3 campaigns.
+     
 ---
 
 ## File Structure
@@ -142,14 +141,8 @@ Key Excel functions applied in this analysis:
 
 ---
 
-## Images & Charts
-
-- Pivot table visualizations and charts are stored in the `Images/` folder.
-- Screenshots highlight key trends in channel and campaign performance.
-
----
 
 ## Conclusion
 
-This project demonstrates end-to-end marketing analytics skills, encompassing data cleaning, pivot table creation, Excel formula usage, demographic analysis, campaign insights, and actionable recommendations. All findings are backed by calculated metrics and visualized pivot tables to facilitate informed business decisions.
+This project demonstrates end-to-end marketing analytics skills, encompassing data cleaning, creating pivot tables, utilizing Excel formulas, conducting demographic analysis, providing campaign insights, and offering actionable recommendations. All findings are backed by calculated metrics and visualized pivot tables to facilitate informed business decisions.
 
