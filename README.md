@@ -1,7 +1,5 @@
-# Chewy_Marketing_Data_Analysis_Project
-Data Analytics Excel Report on Mock Chewy data from Landing Pages to evaluate Campaign Performance
-
 # Marketing Data Analytics Project
+Data Analytics Excel Report on Mock Chewy data from Landing Pages to evaluate Campaign Performance
 
 ## Project Overview
 This project analyzes SEM and Paid Social performance for Q1 and Q2 of 2024. The objective is to uncover insights across campaigns, channels, and demographics, evaluate cost efficiency, and provide actionable recommendations to optimize marketing spend and performance.
@@ -52,8 +50,22 @@ Key columns include:
 4. **Visualization**
    - Pivot table charts and screenshots highlight trends and insights.
    - All visual outputs are stored in the `Images/` folder.
-     Sample 4 pivots
-     Sample 4 visuals 
+
+Sample subset:
+
+![Channel visual overview](Images_and_Screenshots/CVR_BY_Channel.png)
+
+![Channel table](Images_and_Screenshots/Channel_overall_performance.png)
+
+![CVR by Channel visual](Images_and_Screenshots/CVR_BY_Channel.png)
+
+![Campaign Performance table](Images_and_Screenshots/Q1vsQ2_Channel_Type_performance.png)
+
+![CTR By Campaign](Images_and_Screenshots/CTR_BY_Channel.png)
+
+![QoQ Performance Table](Images_and_Screenshots/QoQ_Performance.png)
+
+![Meta_Fish/Reptile Campaigns](Images_and_Screenshots/Meta_Reptile_Campaigns.png)
 
 ---
 
@@ -134,7 +146,6 @@ Key Excel functions applied in this analysis:
 
 - Pivot table visualizations and charts are stored in the `Images/` folder.
 - Screenshots highlight key trends in channel and campaign performance.
-- Include at least 2 pivot table charts and 2 insight charts to showcase data-driven conclusions.
 
 ---
 
